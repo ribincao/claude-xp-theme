@@ -1,0 +1,16 @@
+{
+  "name": "retro-xp-theme",
+  "version": "1.0.0",
+  "description": "A retro early-2000s desktop and a pixel camping valley behind the Claude desktop app's chat: live clock, time of day, weather, an orange pet, and a compact usage card.",
+  "author": {
+    "name": "ribincao"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "mod",
+    "retro",
+    "pixel-art",
+    "claude-desktop"
+  ]
+}

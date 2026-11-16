@@ -1,0 +1,16 @@
+{
+  "name": "retro-xp-theme",
+  "owner": {
+    "name": "ribincao"
+  },
+  "metadata": {
+    "description": "Retro desktop and pixel camp themes for the Claude desktop app."
+  },
+  "plugins": [
+    {
+      "name": "retro-xp-theme",
+      "source": "./",
+      "description": "Retro desktop and pixel camp themes for the Claude desktop app."
+    }
+  ]
+}
